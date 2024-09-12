@@ -19,7 +19,8 @@ I tried to adjust the sliders and play around with the cellphone stand file at f
 
 
 3. Learn more about Rhino and Grasshopper
-   I tried to follow a tutorial video on Youtube (Sharon shared this to us and it helped a lot) and tried to make a box with a lid.
+   
+   I tried to follow a tutorial video on Youtube (One of the classmates shared this to us and it helped a lot) and tried to make a box with a lid.
 <img width="600" alt="Screenshot 2024-09-09 at 2 58 16 PM" src="https://github.com/user-attachments/assets/f3368b42-4496-41fa-b883-6c6d3f8a232e">
 
 
