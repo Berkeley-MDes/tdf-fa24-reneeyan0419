@@ -8,14 +8,24 @@
 ## Week of 09/12/2024
 1. Getting familiar with Rhino and Grasshopper
 
-<img width="1512" alt="Screenshot 2024-09-11 at 9 45 26 PM" src="https://github.com/user-attachments/assets/628e63b3-a1cd-4d6d-bb80-d11dd78ac66d">
 I tried to adjust the sliders and play around with the cellphone stand file at first.
 
-Then on Monday, I went to the 3D printing group and learned how to do the 3D printing from nice TAs. I baked the cellphone stand, exported as a STL file, connected the printer and learned about adding a brim through the Prusaslicer. We even went to the studio together to see how to use the printer. 
+<img width="1512" alt="Screenshot 2024-09-11 at 9 45 26 PM" src="https://github.com/user-attachments/assets/628e63b3-a1cd-4d6d-bb80-d11dd78ac66d">
+
+
+On Monday, I went to the 3D printing group and learned how to do the 3D printing from nice TAs. I baked the cellphone stand, exported as a STL file, connected the printer and learned about adding a brim through the Prusaslicer. We even went to the studio together to see how to use the printer. 
 
 <img src="https://github.com/user-attachments/assets/a0439914-44c1-4e5e-a8e6-abb87fbb92d2" height="400">
-<img width="319" alt="Screenshot 2024-09-11 at 9 41 39 PM" src="https://github.com/user-attachments/assets/b4f296da-1973-49bf-9581-b334bcfdc981">
+<img width="319" alt="Screenshot 2024-09-11 at 9 41 39 PM" src="https://github.com/user-attachments/assets/b4f296da-1973-49bf-9581-b334bcfdc981"> 
 <img width="1512" alt="Screenshot 2024-09-11 at 9 41 29 PM" src="https://github.com/user-attachments/assets/04e7c404-75ea-4290-a04c-a3c114a4fdbf">
+
+
+
+
+2. Learn more about Rhino and Grasshopper
+   
+I tried to follow a tutorial video on Youtube (Sharon shared this to us and it helped a lot) and tried to make a box with a lid.
+<img width="1512" alt="Screenshot 2024-09-09 at 2 58 16 PM" src="https://github.com/user-attachments/assets/f3368b42-4496-41fa-b883-6c6d3f8a232e">
 
 
 # Week 1 #
