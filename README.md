@@ -29,7 +29,10 @@ My Grasshopper design diagrams:
 
 I am really satisfied with it, and it works very well. I've never made any 3D printing stuff started from CAD modeling by myself. Reflecting on this three-week exploration, I have learned a lot about Grasshopper and Rhino. I watched many tutorials and tried to figure out many problems I met during the process. 
 
-Youtube Video link:https://youtu.be/8ZBkjPamP-k 
+Speculations:
+I was thinking one of the questions from the report that how Systems thinking and computational design tools can change the way we perceive and interact with our environment.
+I think design, in general, will increasingly prioritize aspects that were previously difficult to consider simultaneously, such as sustainability and individual adaptability. This shift could lead to changes in cultural expectations, where, when designing similar products, target users may shift from a large community to a small group, and eventually narrow down to an individual.
+
 
 
 # Week 2 #
@@ -51,8 +54,11 @@ I tried to adjust the sliders and play around with the cellphone stand file at f
    I tried to follow a tutorial video on Youtube (One of the classmates shared this to us and it helped a lot) and tried to make a box with a lid.
 <img width="600" alt="Screenshot 2024-09-09 at 2 58 16 PM" src="https://github.com/user-attachments/assets/f3368b42-4496-41fa-b883-6c6d3f8a232e">
 
+Reflection: 
+I had never used any software like this before, and the experience of going through such a systematic design process was really unpredictable. I watched a bunch of tutorial videos on YouTube and realized that none of them could solve the problems I encountered during the process. It’s interesting that this is a highly personalized project, morever, the challenges I faced were also unique. Exploring the functions and figuring out how Grasshopper works was fun.
 
-
+Speculations:
+I studied at an art school where breaking rules and embracing creativity was essential. At first, systematic design tools like Grasshopper and Rhino seemed restrictive, but they’ve reshaped my view of creativity. I’ve learned that structure and parameters don’t limit creativity; they enhance it by providing new ways to explore, iterate, and refine ideas. This blend of intuition and precision has shown me that creativity thrives within a framework, expanding the possibilities in design.
 
 
 # Week 1 #
