@@ -3,7 +3,35 @@
 
 [week 2](README.md#week-2)
 
----
+[week 3](README.md#week-3)
+
+
+# Week 3 #
+## Week of 09/19/2024
+
+(09.16 Mon)I finished my cellphone stand design and made a test print. And I am not satisfied with it is because of the stability. The height of the front toast was too low and kept causing my phone to falling down. So the next modification I made is to make the toast thicker. 
+
+<img width="500" alt="Screenshot 2024-09-11 at 9 45 26 PM" src="https://github.com/user-attachments/assets/d0e3747e-7134-4ef7-8afc-650b29295db8">
+<img width="500" alt="Screenshot 2024-09-19 at 1 46 25 AM" src="https://github.com/user-attachments/assets/6205308f-4ad7-4102-aa9b-0e7663f05370">
+
+(09.18 Wed)The second iteration:
+![IMG_2290](https://github.com/user-attachments/assets/85486ad8-ddf0-436d-b5c8-0f0a023ba577)
+   
+
+The comparison of the two versions:
+
+<img width="500" alt="Screenshot 2024-09-11 at 9 45 26 PM" src="https://github.com/user-attachments/assets/ec64de68-40dd-4d7a-b002-bd111104394f">
+<img width="500" alt="Screenshot 2024-09-11 at 9 45 26 PM" src="https://github.com/user-attachments/assets/8596f972-ea3d-4d2e-ae0f-c36eef889759">
+
+
+My Grasshopper design diagrams:
+![Untitled](https://github.com/user-attachments/assets/3c6dcb6b-fa68-4365-b48e-916b805d66b6)
+
+I am really satisfied with it, and it works very well. I've never made any 3D printing stuff started from CAD modeling by myself. Reflecting on this three-week exploration, I have learned a lot about Grasshopper and Rhino. I watched many tutorials and tried to figure out many problems I met during the process. 
+
+Youtube Video link:https://youtu.be/8ZBkjPamP-k 
+
+
 # Week 2 #
 ## Week of 09/12/2024
 1. Getting familiar with Rhino and Grasshopper
