@@ -5,6 +5,20 @@
 
 [week 3](README.md#week-3)
 
+[week 4](README.md#week-4)
+
+# Week 4 #
+## Week of 09/26/2024
+For this week, I wrapped up my first project. I spent most of the time reviewing peer feedback and finishing my report. I really appreciate all the feedback I received; it was super useful.
+
+This week, we started brainstorming our second project, the "Digital Ecosystem." I have never done something like this before, and I am really excited about the project. I'm also a little bit worried about the technology behind it, but since it's a group project, I'm looking forward to learning from my group members.
+
+For this week's assignment, I decided to create a smart home ecosystem map based on my own experience. The development of technology has really changed our lives. By using smart devices, I can control almost everything in my home.
+![ecosystem](https://github.com/user-attachments/assets/0d71f2d4-cf06-4d81-98fc-8c7bda83a6f5)
+
+Speculations:
+Since I decided to focus on smart homes this week, I started thinking about what the future could look like. I think smart homes could turn into super responsive environments that learn from us, making everything more comfortable, secure, and energy-efficient without us having to lift a finger. But as cool as that sounds, the rise of interconnected systems also brings up the usual concerns about privacy, data security, and how much we rely on technology. It’s always that same question popping up with any new technology. Finding the right balance between the perks of smart ecosystems and the ethical and security stuff is going to be key. Projects like the 'Digital Ecosystem' push us to think about how we can design tech that makes life better while keeping these challenges in mind.
+
 
 # Week 3 #
 ## Week of 09/19/2024
