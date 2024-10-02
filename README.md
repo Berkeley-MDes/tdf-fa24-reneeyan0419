@@ -11,8 +11,11 @@
 
 # Week 5 #
 ## Week of 10/02/2024
+![IMG_2451](https://github.com/user-attachments/assets/1f8ce065-9b5c-4701-b9c2-dda36b3bd508)
+![IMG_2447](https://github.com/user-attachments/assets/c180993e-b34c-4ec6-ab69-b338291f25cc)
+ <img src="https://github.com/user-attachments/assets/c57bffb4-fcce-41e7-a0cd-a7bad5bafa81" width="800"> 
 
-
+This week, I began exploring Particle Photon by reviewing six different files. It's been really interesting since I've never used anything like this before, and exploring how it all works has been pretty fun.
 
 # Week 4 #
 ## Week of 09/26/2024
