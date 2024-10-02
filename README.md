@@ -10,13 +10,15 @@
 [week 5](README.md#week-5)
 
 # Week 5 #
-## Week of 10/02/2024
+## Week of 10/03/2024
 ![IMG_2447](https://github.com/user-attachments/assets/c180993e-b34c-4ec6-ab69-b338291f25cc)
  <img src="https://github.com/user-attachments/assets/c57bffb4-fcce-41e7-a0cd-a7bad5bafa81" width="600"> 
 
 Started from Monday,I began exploring Particle Photon by reviewing the first 6 files. It's been really interesting since I've never used anything like this before, and exploring how it all works has been pretty fun. After going through those files, I got a much clearer idea of how Particle Photon works, so I decided to dive into some more complicated ones (posted on Github) to see what else I could do.
 
 ![IMG_2451](https://github.com/user-attachments/assets/1f8ce065-9b5c-4701-b9c2-dda36b3bd508)
+![IMG_2491](https://github.com/user-attachments/assets/9e6b917e-b996-4f4d-abc2-86484dd4e679)
+![Untitled (1)](https://github.com/user-attachments/assets/f7a8bc52-99b7-46d4-9b8c-93a329902472)
 
 
 # Week 4 #
