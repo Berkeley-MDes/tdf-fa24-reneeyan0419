@@ -20,6 +20,10 @@ Started from Monday,I began exploring Particle Photon by reviewing the first 6 f
 ![IMG_2491](https://github.com/user-attachments/assets/9e6b917e-b996-4f4d-abc2-86484dd4e679)
 ![Untitled (1)](https://github.com/user-attachments/assets/f7a8bc52-99b7-46d4-9b8c-93a329902472)
 
+I went through three tutorials step-by-step (button to LED pulse rate, FSR to LED color, and button send on change), and it feels like I'm really exploring what these tools can do and how their functionality works. I ran into a few problems along the way, both with the coding and the assembly parts. It was a bit tricky, but part of the learning process.
+
+Speculations:
+
 
 # Week 4 #
 ## Week of 09/26/2024
