@@ -23,7 +23,7 @@ Started from Monday,I began exploring Particle Photon by reviewing the first 6 f
 I went through three tutorials step-by-step (button to LED pulse rate, FSR to LED color, and button send on change), and it feels like I'm really exploring what these tools can do and how their functionality works. I ran into a few problems along the way, both with the coding and the assembly parts. It was a bit tricky, but part of the learning process.
 
 Speculations:
-
+I envision a system that automatically adjusts factors like temperature, lighting, and air quality based on real-time data and personal habits to create a personalized comfort environment. For example, the system might learn that cooler air and dim lighting are better for concentration or relaxation and adjust accordingly. In Professor High's class, we also discussed personalization and customization, and I believe the shift from manual customization to automatic personalization is inevitable. As technology and tools develop, people will be able to create environments that better suit their individual needs.
 
 # Week 4 #
 ## Week of 09/26/2024
