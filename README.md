@@ -29,7 +29,7 @@ I envision a system that automatically adjusts factors like temperature, lightin
 ## Week of 09/26/2024
 For this week, I wrapped up my first project. I spent most of the time reviewing peer feedback and finishing my report. I really appreciate all the feedback I received; it was super useful.
 
-This week, we started brainstorming our second project, the "Digital Ecosystem." I have never done something like this before, and I am really excited about the project. I'm also a little bit worried about the technology behind it, but since it's a group project, I'm looking forward to learning from my group members.
+And we also started brainstorming our second project, the "Digital Ecosystem." I have never done something like this before, and I am really excited about the project. I'm also a little bit worried about the technology behind it, but since it's a group project, I'm looking forward to learning from my group members.
 
 For this week's assignment, I decided to create a smart home ecosystem map based on my own experience. The development of technology has really changed our lives. By using smart devices, I can control almost everything in my home.
 ![ecosystem](https://github.com/user-attachments/assets/0d71f2d4-cf06-4d81-98fc-8c7bda83a6f5)
