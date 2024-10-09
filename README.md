@@ -14,8 +14,10 @@
 # Week 6 #
 ## Week of 10/10/2024
 ![IMG_2585](https://github.com/user-attachments/assets/7cd1a3f9-4cfd-47f4-8234-a39cf6c8c34d)
+![IMG_2617](https://github.com/user-attachments/assets/39d5dbb6-3ec0-440b-a0e9-3063ff9bb990)
+ <img src="https://github.com/user-attachments/assets/9cf676eb-375e-4fa2-ac3c-bacaf86be3a7" width="500"> 
+ <img src="https://github.com/user-attachments/assets/1d94caa1-7cec-45ed-86d2-47b080968ff8" width="500"> 
 
-![IMG_2587](https://github.com/user-attachments/assets/9cf676eb-375e-4fa2-ac3c-bacaf86be3a7)
 
 
 # Week 5 #
