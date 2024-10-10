@@ -24,6 +24,8 @@ Reflecting on this experience, it helped me deepen my understanding of both the 
 
 We have also begun to gather as a group to brainstorm ideas for Project 2. Deciding on specific topics to explore in-depth has been challenging, as we are excited by the wide range of possibilities. The goal of this project is to develop an interactive "Book of Answers" installation that responds to user input by utilizing Particle Photon 2 devices for processing and communication. Sensors and actuators will facilitate dynamic, real-time interactions, allowing the user to experience a seamless blend of technology and art. Through this project, we aim to explore the creative potential of IoT technology in interactive installations and enhance the user’s experience with real-time, sensor-driven responses.
 
+<img width="367" alt="Screenshot 2024-10-10 at 4 00 18 PM" src="https://github.com/user-attachments/assets/4d6e09c3-380b-4b9d-8915-8ebef15837b1">
+
 Speculation:
 As we dive into this project, I am excited by the opportunity to push the boundaries of interactive technology. I wish to learn more about how IoT devices, sensors, and real-time data can create dynamic, responsive experiences.I think this project will help us deepen our understanding of how people interact with digital systems and expand our creative thinking.
 
