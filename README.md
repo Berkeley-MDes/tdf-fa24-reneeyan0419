@@ -18,7 +18,14 @@
  <img src="https://github.com/user-attachments/assets/9cf676eb-375e-4fa2-ac3c-bacaf86be3a7" width="500"> 
  <img src="https://github.com/user-attachments/assets/1d94caa1-7cec-45ed-86d2-47b080968ff8" width="500"> 
 
+This week, I went through the provided files and explored two STEMMA-based sensors. I encountered a few issues along the way, which required me to adjust the script multiple times to ensure proper functionality. 
 
+Reflecting on this experience, it helped me deepen my understanding of both the hardware and the coding aspects of the project. I gained more confidence in adapting code to handle unexpected behaviors. These challenges have also highlighted the importance of anticipating potential issues in future projects, so I can better plan for troubleshooting and debugging.
+
+We have also begun to gather as a group to brainstorm ideas for Project 2. Deciding on specific topics to explore in-depth has been challenging, as we are excited by the wide range of possibilities. The goal of this project is to develop an interactive "Book of Answers" installation that responds to user input by utilizing Particle Photon 2 devices for processing and communication. Sensors and actuators will facilitate dynamic, real-time interactions, allowing the user to experience a seamless blend of technology and art. Through this project, we aim to explore the creative potential of IoT technology in interactive installations and enhance the user’s experience with real-time, sensor-driven responses.
+
+Speculation:
+As we dive into this project, I am excited by the opportunity to push the boundaries of interactive technology. I wish to learn more about how IoT devices, sensors, and real-time data can create dynamic, responsive experiences.I think this project will help us deepen our understanding of how people interact with digital systems and expand our creative thinking.
 
 # Week 5 #
 ## Week of 10/03/2024
