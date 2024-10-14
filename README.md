@@ -11,6 +11,20 @@
 
 [week 6](README.md#week-6)
 
+[week 7](README.md#week-7)
+
+# Week 7 #
+## Week of 10/17/2024
+Monday:
+![IMG_3235](https://github.com/user-attachments/assets/4529e632-0e0d-48a3-827a-d4e0f57411df)
+ <img src="https://github.com/user-attachments/assets/2c77e246-94f8-42ae-b7c2-f608d6e658ff" width="500"> 
+ <img src="https://github.com/user-attachments/assets/7324c54a-41e9-4003-a91e-327f0744845c" width="500"> 
+ <img src="https://github.com/user-attachments/assets/bac07b90-fe83-49b8-80d8-b468c3c7385b" width="500"> 
+ <img src="https://github.com/user-attachments/assets/c19cdc98-f6be-427f-9f49-d8dedd9c06a2" width="500"> 
+<img width="500" alt="Screenshot 2024-10-13 at 5 50 15 PM" src="https://github.com/user-attachments/assets/525cff51-1ab8-448b-a6d5-f9d0ef3c8c0c">
+<img width="500" alt="Screenshot 2024-10-13 at 5 30 59 PM" src="https://github.com/user-attachments/assets/0c46bf38-0126-4ca1-92b8-089f82016e6f">
+I worked with my teammate, Hongxi, to explore a variety of sensors in our project. The light sensor performed exceptionally well, providing accurate and consistent data, and integrating it into our system was smooth and efficient. However, when it came to the gravity sensor, there were a lot of chanllenges. I kept getting error in the VS Code, so my next plan is to figure out what's causing the error and fix it.
+
 # Week 6 #
 ## Week of 10/10/2024
 ![IMG_2585](https://github.com/user-attachments/assets/7cd1a3f9-4cfd-47f4-8234-a39cf6c8c34d)
