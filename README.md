@@ -15,6 +15,11 @@
 
 # Week 7 #
 ## Week of 10/17/2024
+Thursday:
+![IMG_3265](https://github.com/user-attachments/assets/2caa7c36-ef36-4fb5-bd03-8e3606fc279b)
+![IMG_3240](https://github.com/user-attachments/assets/1afea3f0-0dc4-464d-a726-044188770528)
+This week, we started working on our project. We're gradually sorting out the details and flows of it. We also experimented further with the light sensor and added an LED to help debug the code. However, there are still some problems we need to figure out.
+
 Monday:
 ![IMG_3235](https://github.com/user-attachments/assets/4529e632-0e0d-48a3-827a-d4e0f57411df)
  <img src="https://github.com/user-attachments/assets/2c77e246-94f8-42ae-b7c2-f608d6e658ff" width="500"> 
@@ -23,7 +28,10 @@ Monday:
  <img src="https://github.com/user-attachments/assets/c19cdc98-f6be-427f-9f49-d8dedd9c06a2" width="500"> 
 <img width="500" alt="Screenshot 2024-10-13 at 5 50 15 PM" src="https://github.com/user-attachments/assets/525cff51-1ab8-448b-a6d5-f9d0ef3c8c0c">
 <img width="500" alt="Screenshot 2024-10-13 at 5 30 59 PM" src="https://github.com/user-attachments/assets/0c46bf38-0126-4ca1-92b8-089f82016e6f">
-I worked with my teammate, Hongxi, to explore a variety of sensors in our project. The light sensor performed exceptionally well, providing accurate and consistent data, and integrating it into our system was smooth and efficient. However, when it came to the gravity sensor, there were a lot of chanllenges. I kept getting error in the VS Code, so my next plan is to figure out what's causing the error and fix it.
+I worked with my teammate, Hongxi, to explore a variety of sensors in our project. The light sensor performed exceptionally well, providing accurate and consistent data, and integrating it into our system was smooth and efficient. However, when it came to the gravity sensor, there were a lot of challenges. I kept getting error in the VS Code, so my next plan is to figure out what's causing the error and fix it.
+
+Speculation:
+Getting the light sensor to work so smoothly was nice, but the gravity sensor has been a headache with all the errors in VS Code. These challenges might push us to try new ways of debugging and thinking through problems. It's nice to explore more on particle photon.
 
 # Week 6 #
 ## Week of 10/10/2024
