@@ -13,6 +13,20 @@
 
 [week 7](README.md#week-7)
 
+[week 8](README.md#week-8)
+
+# Week 8 #
+## Week of 10/24/2024
+This week, I worked with Hongxi as we began wrapping up our project and created a video to showcase our progress. Throughout the process, we encountered several challenges since it was our first time using the Particle Photon. However, the iterative process proved to be both enjoyable and insightful, helping us refine our ideas step-by-step.
+
+Looking back on this project, I learned a lot from the experience. Not only did I gain technical skills, but I also developed a deeper understanding of problem-solving through hands-on experimentation. It’s fascinating to reflect on how much we were able to accomplish despite the initial difficulties. This journey has shown me how rewarding it can be to dive into unfamiliar technologies, and I’m excited to apply what I’ve learned to future projects.
+![IMG_3235](https://github.com/user-attachments/assets/e21ec57e-4003-4122-af46-53346ecd3ce8)
+![Slide 16_9 - 3](https://github.com/user-attachments/assets/964f1d38-0681-4615-908c-d397d2b35cc8)
+![Slide 16_9 - 2](https://github.com/user-attachments/assets/5b1f7e0b-326a-46a9-8bbe-d6604f392d4d)
+
+Speculation: During development, various sensors were tested to build a dynamic, responsive experience. We faced challenges with networking, coding, and hardware—like the LED blinking incorrectly or not at all. Through experimentation, we created a system that clearly responds to user intentions. Each LED illuminated a unique inquiry path, guiding users based on their focus. This blend of simplicity and functionality shows how basic hardware can foster meaningful, enjoyable interactions, making technology feel friendly and accessible.
+
+
 # Week 7 #
 ## Week of 10/17/2024
 Thursday:
