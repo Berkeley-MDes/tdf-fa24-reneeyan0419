@@ -23,15 +23,20 @@ This week has been really exciting. We started learning about Large Language Mod
 
 Process:
 1. GPT Experienment: 
-Adding monitors, adding greeting texts, adding prepopulated options:
+Adding monitors, greeting texts, prepopulated options, and tempurature:
 <img width="1512" alt="Screenshot 2024-10-30 at 11 09 20 PM" src="https://github.com/user-attachments/assets/eca494d9-91ca-4ed3-9491-429edd9ac011">
 
 <img width="1512" alt="Screenshot 2024-10-30 at 11 09 12 PM" src="https://github.com/user-attachments/assets/ddb9d707-739a-40ee-a01c-9d2b42d3ecd8">
 
-<img width="1512" alt="Screenshot 2024-10-30 at 11 08 55 PM" src="https://github.com/user-attachments/assets/18e727a1-77ad-4190-af6b-3b01528222ad">
+<img width="1510" alt="Screenshot 2024-10-30 at 10 53 04 PM" src="https://github.com/user-attachments/assets/8ffa1218-a58b-4cf8-bfdc-c20c63521483">
 
 
 2. GPT+INSTRUCT Experiment:
+Adding instructions (pompts)
+<img width="1512" alt="Screenshot 2024-10-30 at 11 00 46 PM" src="https://github.com/user-attachments/assets/96b50bb3-13ea-41ec-9fc2-bbb0c77d2fed">
+<img width="1512" alt="Screenshot 2024-10-30 at 11 08 55 PM" src="https://github.com/user-attachments/assets/18e727a1-77ad-4190-af6b-3b01528222ad">
+
+3. GPT+INSTRUCT+RAG Experiment:
 
 
 
