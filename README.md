@@ -38,6 +38,7 @@ Added instructions (pompts)
 3. GPT+INSTRUCT+RAG Experiment:
 Added the knowledge base, changed the theme that fit my last project and adjusted a lttle bit
 <img width="1512" alt="Screenshot 2024-10-31 at 2 30 19 PM" src="https://github.com/user-attachments/assets/77619a4e-5c00-4658-b1a2-d190ef0b0fcb">
+<img width="1509" alt="Screenshot 2024-10-31 at 2 53 24 PM" src="https://github.com/user-attachments/assets/1f3bbb34-f9ad-41ba-8e06-81fb5ce6b517">
 
 Reflection & Speculation:
 As the guest speaker emphasized, AI development should be a collaborative process rather than solely technical. Currently, a common practice among developers is to make AI-related decisions without input from designers, often leading to suboptimal user experiences. This disconnect between technical and design perspectives can result in AI tools that meet functional requirements but fail to fully support or engage users effectively.
