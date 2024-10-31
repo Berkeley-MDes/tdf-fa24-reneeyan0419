@@ -15,6 +15,26 @@
 
 [week 8](README.md#week-8)
 
+[week 9](README.md#week-9)
+
+# Week 9 #
+## Week of 10/30/2024
+This week has been really exciting. We started learning about Large Language Models (LLMs) and even began creating our own. I followed TJ's tutorial video, which was super clear and easy to understand, and explored Zerowidth with him. I really enjoyed the process and felt like I learned a lot.
+
+Process:
+1. GPT Experienment: 
+Adding monitors, adding greeting texts, adding prepopulated options:
+<img width="1512" alt="Screenshot 2024-10-30 at 11 09 20 PM" src="https://github.com/user-attachments/assets/eca494d9-91ca-4ed3-9491-429edd9ac011">
+
+<img width="1512" alt="Screenshot 2024-10-30 at 11 09 12 PM" src="https://github.com/user-attachments/assets/ddb9d707-739a-40ee-a01c-9d2b42d3ecd8">
+
+<img width="1512" alt="Screenshot 2024-10-30 at 11 08 55 PM" src="https://github.com/user-attachments/assets/18e727a1-77ad-4190-af6b-3b01528222ad">
+
+
+2. GPT+INSTRUCT Experiment:
+
+
+
 # Week 8 #
 ## Week of 10/24/2024
 This week, I worked with Hongxi as we began wrapping up our project and created a video to showcase our progress. Throughout the process, we encountered several challenges since it was our first time using the Particle Photon. However, the iterative process proved to be both enjoyable and insightful, helping us refine our ideas step-by-step.
