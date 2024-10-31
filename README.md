@@ -23,22 +23,26 @@ This week has been really exciting. We started learning about Large Language Mod
 
 Process:
 1. GPT Experienment: 
-Adding monitors, greeting texts, prepopulated options, and tempurature:
+Added monitors, greeting texts, prepopulated options, and tempurature
 <img width="1512" alt="Screenshot 2024-10-30 at 11 09 20 PM" src="https://github.com/user-attachments/assets/eca494d9-91ca-4ed3-9491-429edd9ac011">
 
 <img width="1512" alt="Screenshot 2024-10-30 at 11 09 12 PM" src="https://github.com/user-attachments/assets/ddb9d707-739a-40ee-a01c-9d2b42d3ecd8">
 
 <img width="1510" alt="Screenshot 2024-10-30 at 10 53 04 PM" src="https://github.com/user-attachments/assets/8ffa1218-a58b-4cf8-bfdc-c20c63521483">
 
-
 2. GPT+INSTRUCT Experiment:
-Adding instructions (pompts)
+Added instructions (pompts)
 <img width="1512" alt="Screenshot 2024-10-30 at 11 00 46 PM" src="https://github.com/user-attachments/assets/96b50bb3-13ea-41ec-9fc2-bbb0c77d2fed">
 <img width="1512" alt="Screenshot 2024-10-30 at 11 08 55 PM" src="https://github.com/user-attachments/assets/18e727a1-77ad-4190-af6b-3b01528222ad">
 
 3. GPT+INSTRUCT+RAG Experiment:
+Added the knowledge base, changed the theme that fit my last project and adjusted a lttle bit
+<img width="1512" alt="Screenshot 2024-10-31 at 2 30 19 PM" src="https://github.com/user-attachments/assets/77619a4e-5c00-4658-b1a2-d190ef0b0fcb">
 
+Reflection & Speculation:
+As the guest speaker emphasized, AI development should be a collaborative process rather than solely technical. Currently, a common practice among developers is to make AI-related decisions without input from designers, often leading to suboptimal user experiences. This disconnect between technical and design perspectives can result in AI tools that meet functional requirements but fail to fully support or engage users effectively.
 
+Reflecting on this, it's clear that a closer collaboration between developers and designers could bring richer, more user-centric perspectives to AI projects. Designers bring insights into human behavior, empathy, and usability, which are critical in ensuring AI aligns with users' needs and expectations. When developers and designers work together, they can build AI solutions that not only function efficiently but also resonate with and support the people using them.
 
 # Week 8 #
 ## Week of 10/24/2024
