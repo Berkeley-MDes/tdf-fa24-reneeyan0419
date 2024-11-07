@@ -17,6 +17,11 @@
 
 [week 9](README.md#week-9)
 
+[week 10](README.md#week-10)
+
+# Week 10 #
+## Week of 10/30/2024
+
 # Week 9 #
 ## Week of 10/30/2024
 This week has been really exciting. We started learning about Large Language Models (LLMs) and even began creating our own. I followed TJ's tutorial video, which was super clear and easy to understand, and explored Zerowidth with him. I really enjoyed the process and felt like I learned a lot.
