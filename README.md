@@ -20,11 +20,22 @@
 [week 10](README.md#week-10)
 
 # Week 10 #
-## Week of 10/30/2024
+## Week of 11/07/2024
+This week, I revisited the four experiments, enhancing them by adding my own information to the knowledge base, which helped make the outputs more tailored and personalized. I focused on fine-tuning the experiments to better align with my specific project goals. Additionally, I began the final steps to wrap up Project 3, ensuring everything is on track to complete it before Thursday's deadline.
+Different experiments:
+<img width="1508" alt="Screenshot 2024-11-06 at 10 31 00 PM" src="https://github.com/user-attachments/assets/5efb8728-3590-45cd-8148-c9eff53cecbd">
+<img width="1508" alt="Screenshot 2024-11-06 at 10 30 38 PM" src="https://github.com/user-attachments/assets/de057b50-f16f-4ec4-9350-b7d636e92e9d">
+<img width="1508" alt="Screenshot 2024-11-07 at 1 34 16 AM" src="https://github.com/user-attachments/assets/22465fa1-9782-408a-95f8-86122c5f700d">
+<img width="1508" alt="Screenshot 2024-11-07 at 1 43 50 AM" src="https://github.com/user-attachments/assets/ba7b1bca-a2a7-48c6-a3af-386c0a339100">
+<img width="1508" alt="Screenshot 2024-11-07 at 1 47 51 AM" src="https://github.com/user-attachments/assets/09b9703a-ba0d-4de0-bb5b-6de1c0989bea">
+
+Speculation & Reflection:
+People could soon design LLMs to be highly personalized tools, customized to respond precisely to individual needs. By adding more detailed instructions and adjusting settings like temperature (which controls the model’s creativity level), users can get responses that align closely with their specific style and intent. As we continue fine-tuning these models with richer inputs and settings, LLMs could become increasingly accurate in their responses—acting almost like a personalized assistant that adapts to our unique design preferences and goals, making every interaction more intuitive and tailored.
 
 # Week 9 #
 ## Week of 10/30/2024
 This week has been really exciting. We started learning about Large Language Models (LLMs) and even began creating our own. I followed TJ's tutorial video, which was super clear and easy to understand, and explored Zerowidth with him. I really enjoyed the process and felt like I learned a lot.
+
 
 Process:
 1. GPT Experienment: 
