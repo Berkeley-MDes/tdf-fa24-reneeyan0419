@@ -47,7 +47,7 @@ Added monitors, greeting texts, prepopulated options, and temperature
 <img width="1510" alt="Screenshot 2024-10-30 at 10 53 04 PM" src="https://github.com/user-attachments/assets/8ffa1218-a58b-4cf8-bfdc-c20c63521483">
 
 2. GPT+INSTRUCT Experiment:
-Added instructions (pompts)
+Added instructions (prompts)
 <img width="1512" alt="Screenshot 2024-10-30 at 11 00 46 PM" src="https://github.com/user-attachments/assets/96b50bb3-13ea-41ec-9fc2-bbb0c77d2fed">
 <img width="1512" alt="Screenshot 2024-10-30 at 11 08 55 PM" src="https://github.com/user-attachments/assets/18e727a1-77ad-4190-af6b-3b01528222ad">
 
