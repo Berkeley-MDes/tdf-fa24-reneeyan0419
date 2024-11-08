@@ -38,8 +38,8 @@ This week has been really exciting. We started learning about Large Language Mod
 
 
 Process:
-1. GPT Experienment: 
-Added monitors, greeting texts, prepopulated options, and tempurature
+1. GPT Experiment: 
+Added monitors, greeting texts, prepopulated options, and temperature
 <img width="1512" alt="Screenshot 2024-10-30 at 11 09 20 PM" src="https://github.com/user-attachments/assets/eca494d9-91ca-4ed3-9491-429edd9ac011">
 
 <img width="1512" alt="Screenshot 2024-10-30 at 11 09 12 PM" src="https://github.com/user-attachments/assets/ddb9d707-739a-40ee-a01c-9d2b42d3ecd8">
