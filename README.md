@@ -23,6 +23,14 @@
 
 # Week 11 #
 ## Week of 11/13/2024
+Systemetic diagram analysis:
+![Group 65](https://github.com/user-attachments/assets/da364b7d-a0c4-4369-bbb1-2363f6bcae85)
+![process](https://github.com/user-attachments/assets/a1ea9cc1-1854-4f20-9ee8-6e9ec7090658)
+![Slide 16_9 - 24](https://github.com/user-attachments/assets/ae2dd850-1503-481a-b375-404123b5defa)
+This week, I started to wrapped up my project 3 -- Mini Me. 
+
+Specualtion & Reflection:
+
 
 # Week 10 #
 ## Week of 11/07/2024
