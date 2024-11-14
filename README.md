@@ -19,6 +19,11 @@
 
 [week 10](README.md#week-10)
 
+[week 11](README.md#week-11)
+
+# Week 11 #
+## Week of 11/13/2024
+
 # Week 10 #
 ## Week of 11/07/2024
 This week, I revisited the four experiments, enhancing them by adding my own information to the knowledge base, which helped make the outputs more tailored and personalized. I focused on fine-tuning the experiments to better align with my specific project goals. Additionally, I began the final steps to wrap up Project 3, ensuring everything is on track to complete it before Thursday's deadline.
