@@ -21,6 +21,22 @@
 
 [week 11](README.md#week-11)
 
+[week 12](README.md#week-12)
+
+# Week 12 #
+## Week of 11/20/2024
+This week, I started considering the topic for my final project and forming groups. Below is the poster I created to showcase my idea.
+![Renee](https://github.com/user-attachments/assets/d77a72a0-e666-49d3-b9be-bfa63f023615)
+
+Team members: Jieru Lin & Joyce Young
+A short into about our project:This project focuses on the intersection of in-car interaction design, automotive technology, and the Internet of Things (IoT) to enhance the passenger experience during road trips. A key feature is integrating karaoke functionality, offering dynamic lyric displays, and enabling interactive controls such as hand gesture detection for switching songs or adjusting volume. The system can also utilize two paired devices, one for the driver and one for rear-seat passengers, ensuring an inclusive and engaging experience for everyone in the car. The domain explores human-computer interaction (HCI) principles within the automotive environment. Additionally, it incorporates microcontroller technology for innovative, real-time displays projected onto the windshield or personal screens.
+Diagrams we made:
+![2](https://github.com/user-attachments/assets/191f90da-f1d3-4baf-8a88-5e18efef9f01)
+![Draft System Architecture v2](https://github.com/user-attachments/assets/ceac5ea0-fc1c-41c9-bb84-881d211ed077)
+
+Speculation & Reflection:
+We spent most of our time refining and detailing our idea, and we realized that there are many elements that need to be considered.Through this process, we realized that there are many interconnected elements that need to be carefully considered. From practical implementation to conceptual clarity, each aspect requires attention to ensure the overall coherence and feasibility of the idea. This exercise taught us the importance of balancing creative exploration with critical evaluation, as overlooking even small details can have a ripple effect on the final outcome. Moving forward, we aim to approach such challenges with a more structured framework to streamline our thinking while maintaining the flexibility to adapt to new insights.
+
 # Week 11 #
 ## Week of 11/13/2024
 Systemetic diagram analysis:
