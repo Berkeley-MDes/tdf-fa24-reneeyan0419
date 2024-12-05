@@ -23,6 +23,20 @@
 
 [week 12](README.md#week-12)
 
+[week 13](README.md#week-13)
+
+
+# Week 13 #
+## Week of 12/05/2024
+For the past few weeks, I have spent most of my time figuring out how to connect the Spotify API to Particle Photon. There are very few tutorials available online for this, which means I had to figure it out on my own. I started by creating an app on Spotify for developers and linking it to my Spotify account to connect to the Spotify API.
+<img width="1505" alt="Screenshot 2024-12-04 at 6 21 17 PM" src="https://github.com/user-attachments/assets/d8afd57c-af68-411e-8a7f-e850b66a9f0b">
+
+However, the process of connecting to the API was challenging. I tried several methods to make the process easier, but none of them initially worked. Since Spotify requires an Access Token to connect to the API, and the token refreshes every hour, I figured out how to automate retrieving the token whenever I needed to connect after multiple experiements. Adding debug information on the localhost website significantly helped me monitor the status and determine if the current approach was working.
+<img width="1512" alt="Screenshot 2024-12-04 at 12 22 34 PM" src="https://github.com/user-attachments/assets/a16b0cc6-26c6-48b7-a1d2-4471c1f0bc35">
+
+Speculations & reflections:
+
+
 # Week 12 #
 ## Week of 11/20/2024
 This week, I started considering the topic for my final project and forming groups. Below is the poster I created to showcase my idea.
