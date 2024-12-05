@@ -33,9 +33,10 @@ For the past few weeks, I have spent most of my time figuring out how to connect
 
 However, the process of connecting to the API was challenging. I tried several methods to make the process easier, but none of them initially worked. Since Spotify requires an Access Token to connect to the API, and the token refreshes every hour, I figured out how to automate retrieving the token whenever I needed to connect after multiple experiements. Adding debug information on the localhost website significantly helped me monitor the status and determine if the current approach was working.
 <img width="1512" alt="Screenshot 2024-12-04 at 12 22 34 PM" src="https://github.com/user-attachments/assets/a16b0cc6-26c6-48b7-a1d2-4471c1f0bc35">
+<img width="845" alt="Screenshot 2024-12-05 at 3 52 10 PM" src="https://github.com/user-attachments/assets/aa67d66b-ad2c-4dfc-8e2a-e1a71dc1ce12">
 
 Speculations & reflections:
-
+This experience suggests that bridging APIs and IoT systems remains niche, requiring self-driven experimentation. Future advancements in tools and tutorials could simplify such integrations. And this project taught me resilience and problem-solving in the face of ambiguity. Automating token retrieval after multiple failed attempts underscored the importance of persistence and iterative learning. Debugging on a localhost made hidden processes clear and helped refine my approach. Beyond solving the technical challenge, I gained confidence in tackling complex, underexplored areas and improved my understanding of APIs and IoT systems. This experience reinforced the value of patience, creativity, and systematic troubleshooting.
 
 # Week 12 #
 ## Week of 11/20/2024
